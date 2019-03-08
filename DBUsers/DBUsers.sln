@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBUsers", "DBUsers\DBUsers.csproj", "{8CF59659-34E0-44D3-A8E3-C5651C84F368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF59659-34E0-44D3-A8E3-C5651C84F368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF59659-34E0-44D3-A8E3-C5651C84F368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF59659-34E0-44D3-A8E3-C5651C84F368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF59659-34E0-44D3-A8E3-C5651C84F368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C17538C-BA19-4EC5-A587-606BFF86D5A9}
+	EndGlobalSection
+EndGlobal
